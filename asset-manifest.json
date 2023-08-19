@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9b75f8d7.css",
-    "main.js": "/static/js/main.bd2b8699.js",
+    "main.js": "/static/js/main.30359efd.js",
     "static/media/video.mp4": "/static/media/video.b239236717724660d6e9.mp4",
     "static/media/DesignEndeavourPortfolio.pdf": "/static/media/DesignEndeavourPortfolio.0fc8296c662c409bbb93.pdf",
     "static/media/DE.webp": "/static/media/DE.ebc1baec386623ad0a4c.webp",
@@ -22,10 +22,10 @@
     "static/media/allplan_logo.png": "/static/media/allplan_logo.59abd312c3e92142c9f9.png",
     "index.html": "/index.html",
     "main.9b75f8d7.css.map": "/static/css/main.9b75f8d7.css.map",
-    "main.bd2b8699.js.map": "/static/js/main.bd2b8699.js.map"
+    "main.30359efd.js.map": "/static/js/main.30359efd.js.map"
   },
   "entrypoints": [
     "static/css/main.9b75f8d7.css",
-    "static/js/main.bd2b8699.js"
+    "static/js/main.30359efd.js"
   ]
 }
