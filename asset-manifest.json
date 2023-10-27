@@ -1,31 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b75f8d7.css",
-    "main.js": "/static/js/main.30359efd.js",
-    "static/media/video.mp4": "/static/media/video.b239236717724660d6e9.mp4",
-    "static/media/DesignEndeavourPortfolio.pdf": "/static/media/DesignEndeavourPortfolio.0fc8296c662c409bbb93.pdf",
-    "static/media/DE.webp": "/static/media/DE.ebc1baec386623ad0a4c.webp",
-    "static/media/DE2.webp": "/static/media/DE2.c1d94bc6a2d89603a103.webp",
-    "static/media/stblaptop.png": "/static/media/stblaptop.c38735214e1b726dab04.png",
-    "static/media/aboutimg.jpg": "/static/media/aboutimg.a53d4feb4265a83a23be.jpg",
-    "static/media/autocad_logo.png": "/static/media/autocad_logo.d9a1c9d5bcad1129e88d.png",
-    "static/media/revit_logo.png": "/static/media/revit_logo.88a90c1d5b7e9102d122.png",
-    "static/media/Logo5.png": "/static/media/Logo5.db986fa98b17d8fa954b.png",
-    "static/media/bimchallenge.jpg": "/static/media/bimchallenge.06ec044cd28110ab09dc.jpg",
-    "static/media/bimfuture.jpg": "/static/media/bimfuture.5bc6e15db387771b5c28.jpg",
-    "static/media/bimconstruction.jpg": "/static/media/bimconstruction.af4aeb7dd22689b44141.jpg",
-    "static/media/render.jpg": "/static/media/render.01d7774860fa31a07555.jpg",
-    "static/media/stb.jpg": "/static/media/stb.11471d8e5068b48668a7.jpg",
-    "static/media/precast.jpg": "/static/media/precast.5e00acba899be43c1b17.jpg",
-    "static/media/recap_logo.png": "/static/media/recap_logo.be709b3c77b941bcbcd3.png",
-    "static/media/3dsMax_logo.png": "/static/media/3dsMax_logo.5f33350c0aec53dd1330.png",
-    "static/media/allplan_logo.png": "/static/media/allplan_logo.59abd312c3e92142c9f9.png",
-    "index.html": "/index.html",
-    "main.9b75f8d7.css.map": "/static/css/main.9b75f8d7.css.map",
-    "main.30359efd.js.map": "/static/js/main.30359efd.js.map"
+    "main.css": "/SoclcialMedia-Demo/static/css/main.31d6cfe0.css",
+    "main.js": "/SoclcialMedia-Demo/static/js/main.3c99b01e.js",
+    "index.html": "/SoclcialMedia-Demo/index.html",
+    "main.3c99b01e.js.map": "/SoclcialMedia-Demo/static/js/main.3c99b01e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b75f8d7.css",
-    "static/js/main.30359efd.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3c99b01e.js"
   ]
 }
